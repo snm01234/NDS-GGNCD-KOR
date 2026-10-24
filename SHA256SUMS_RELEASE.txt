@@ -1,0 +1,2 @@
+19090a3213aeddf742ef22b1187b1d319668b6f738dae51c96f04b5a9df3c308  SDGG_CrossDrive_Korean_v1.0.0.xdelta
+e11e91953a47a768faa8c3794e3bc12deceb9bccdb6dca95efebf4f62cc28d7b  SDGG_CrossDrive_Korean_v1.0.0.zip

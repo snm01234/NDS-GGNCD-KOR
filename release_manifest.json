@@ -1,0 +1,54 @@
+{
+  "release_version": "1.0.0",
+  "release_date": "2026-10-24",
+  "basis": "v071_OPTIONS_ALIGNMENT",
+  "replaces_basis": "v069_STATE_TEXT_FIT",
+  "same_version_refresh": true,
+  "format": "xdelta3 / VCDIFF",
+  "source": {
+    "filename": "1285 - SD Gundam G Generation - Cross Drive (Japan).nds",
+    "bytes": 134217728,
+    "sha256": "9435f495524d0a6ffcee624b5b7ce952938c1edd57785f1a1b476e255ff948a3",
+    "sha1": "c88ba4c0d05b15432cce63d9ece47afe5a0615c3",
+    "md5": "eefa8a168c17c8b6eb4f2dbd9985a567",
+    "crc32": "066C9B38"
+  },
+  "target": {
+    "filename": "SDGG_CrossDrive_Korean_v1.0.0.nds",
+    "bytes": 134217728,
+    "sha256": "45f1dbb2a5bef5b902618ecc1c3a9ee2d8969c3388031a75476d877935596b36",
+    "sha1": "46fef0addeea2c527d3ce40562cdcd48051db2e3",
+    "md5": "914eeac1cca4c27900f7fb393160005d",
+    "crc32": "F1436ADF"
+  },
+  "patch": {
+    "filename": "SDGG_CrossDrive_Korean_v1.0.0.xdelta",
+    "bytes": 6101195,
+    "sha256": "19090a3213aeddf742ef22b1187b1d319668b6f738dae51c96f04b5a9df3c308",
+    "sha1": "0d26b7aa841b9df3d4feabde927df86b05dd9d74",
+    "md5": "f7de3c0a87c1acb3d9b97ae19970bb3c",
+    "crc32": "96AFD7A8"
+  },
+  "tool": {
+    "version": "3.1.0",
+    "source_url": "https://github.com/jmacd/xdelta-gpl/releases/download/v3.1.0/xdelta3-3.1.0-x86_64.exe.zip",
+    "executable_sha256": "6855c01cf4a1662ba421e6f95370cf9afa2b3ab6c148473c63efe60d634dfb9a",
+    "download_zip_sha256": "b10e0d1df3e212e5a2d37d5c088d2f72ecec760bc3c26caeca51499c3118b93a",
+    "bundled_in_release": false
+  },
+  "encoding": {
+    "secondary_compression": false,
+    "application_header": false,
+    "custom_code_table": false,
+    "window_checksums": true,
+    "source_window_bytes": 134217728
+  },
+  "verification": {
+    "round_trip_decode": true,
+    "byte_for_byte_equal_to_v071": true,
+    "source_and_v071_unchanged": true,
+    "inherited_v071_static_checks": 19,
+    "game_or_emulator_run_for_release": false
+  },
+  "ROM_files_in_package": false
+}
