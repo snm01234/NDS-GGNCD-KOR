@@ -9,7 +9,7 @@
 | 항목 | 안내 |
 |---|---|
 | 대상 | Nintendo DS 일본판 『SD Gundam G Generation: Cross Drive』 |
-| 배포 버전 | 1.0.0 |
+| 배포 버전 | 1.1.0 |
 | 패치 방식 | xdelta3 (VCDIFF) |
 | 필요한 원본 | 수정하지 않은 일본판 ROM, 128 MiB |
 
